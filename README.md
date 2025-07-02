@@ -35,6 +35,4 @@ This project is a simple and clean full-stack file upload system built using:
 
 ---
 
-## 📁 Project Structure
 
-# File_Uploading_project
